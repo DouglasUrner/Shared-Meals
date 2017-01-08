@@ -10,7 +10,7 @@ Comfortable places for adults who are not cooking or doing activities with child
 
 Any time is a good time, but it might be nice to do something around times when there are typically festive meals, but probably not at times which collide with the actual dates (or to close so that it seems like a lot of work). It might be nice to do it ahead of time so that participants get a "preview" of what will be happening in other communities.
 
-Make it a regular event and pick a theme or a cookbook. Have a planning committe and send out notices in advance to let people know about the menu and time, etc. Make the planning committee big enough that even if nobody else (or only a few others) come it will still feel like a festive occasion.
+Make it a regular event and pick a theme or a [cookbook][]. Have a planning committee and send out notices in advance to let people know about the menu and time, etc. Make the planning committee big enough that even if nobody else (or only a few others) come it will still feel like a festive occasion.
 
 ### Set Expectations
 
@@ -23,3 +23,5 @@ Make it a regular event and pick a theme or a cookbook. Have a planning committe
 * Share recipies and information about where to get ingredients.
 * Maybe post photos.
 * Could have a web site or Facebook page so that a history of events is maintained.
+
+[cookbook]: https://github.com/DouglasUrner/Shared-Meals/blob/master/Cookbooks.md
